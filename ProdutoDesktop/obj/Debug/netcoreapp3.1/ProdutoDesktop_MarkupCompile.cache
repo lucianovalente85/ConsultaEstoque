@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Luciano programas\PW\APS_PW\ProdutoDesktop\obj\Debug\netcoreapp3.1\
+C:\Luciano programas\PW\ConsultaEstoque\ProdutoDesktop\obj\Debug\netcoreapp3.1\
 ProdutoDesktop
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
-C:\Luciano programas\PW\APS_PW\ProdutoDesktop\App.xaml
+C:\Luciano programas\PW\ConsultaEstoque\ProdutoDesktop\App.xaml
 3-1684487426
 
 111308298290
-193358420387
+193-1876439417
 MainWindow.xaml;Views\ProdutoListaView.xaml;Views\ProdutoView.xaml;
 
-False
+True
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sbWhg2StmOjbEZcBQyersJSub/ocx7WblX1PuHNvQ44JMz8a9qpYDTlbpjIKR8RoKTFIYOV0zlPpq69wCf+aWg==",
+  "dgSpecHash": "8ggoKdsKqzZbLjiEhAIchfhgPNGd0+GmQp4bcvqZyESxrpCAJqXQ54OTNtEgeqJqbZalMP39pWSdUXHZcFqIXw==",
   "success": true,
-  "projectFilePath": "C:\\Luciano programas\\PW\\APS_PW\\APS_PW\\Dominio.csproj",
+  "projectFilePath": "C:\\Luciano programas\\PW\\ConsultaEstoque\\APS_PW\\Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

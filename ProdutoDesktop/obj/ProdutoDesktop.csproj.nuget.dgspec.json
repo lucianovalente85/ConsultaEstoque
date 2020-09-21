@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Luciano programas\\PW\\APS_PW\\ProdutoDesktop\\ProdutoDesktop.csproj": {}
+    "C:\\Luciano programas\\PW\\ConsultaEstoque\\ProdutoDesktop\\ProdutoDesktop.csproj": {}
   },
   "projects": {
-    "C:\\Luciano programas\\PW\\APS_PW\\APS_PW\\Dominio.csproj": {
+    "C:\\Luciano programas\\PW\\ConsultaEstoque\\APS_PW\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Luciano programas\\PW\\APS_PW\\APS_PW\\Dominio.csproj",
+        "projectUniqueName": "C:\\Luciano programas\\PW\\ConsultaEstoque\\APS_PW\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Luciano programas\\PW\\APS_PW\\APS_PW\\Dominio.csproj",
+        "projectPath": "C:\\Luciano programas\\PW\\ConsultaEstoque\\APS_PW\\Dominio.csproj",
         "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
-        "outputPath": "C:\\Luciano programas\\PW\\APS_PW\\APS_PW\\obj\\",
+        "outputPath": "C:\\Luciano programas\\PW\\ConsultaEstoque\\APS_PW\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -60,14 +60,14 @@
         }
       }
     },
-    "C:\\Luciano programas\\PW\\APS_PW\\ProdutoDesktop\\ProdutoDesktop.csproj": {
+    "C:\\Luciano programas\\PW\\ConsultaEstoque\\ProdutoDesktop\\ProdutoDesktop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Luciano programas\\PW\\APS_PW\\ProdutoDesktop\\ProdutoDesktop.csproj",
+        "projectUniqueName": "C:\\Luciano programas\\PW\\ConsultaEstoque\\ProdutoDesktop\\ProdutoDesktop.csproj",
         "projectName": "ProdutoDesktop",
-        "projectPath": "C:\\Luciano programas\\PW\\APS_PW\\ProdutoDesktop\\ProdutoDesktop.csproj",
+        "projectPath": "C:\\Luciano programas\\PW\\ConsultaEstoque\\ProdutoDesktop\\ProdutoDesktop.csproj",
         "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
-        "outputPath": "C:\\Luciano programas\\PW\\APS_PW\\ProdutoDesktop\\obj\\",
+        "outputPath": "C:\\Luciano programas\\PW\\ConsultaEstoque\\ProdutoDesktop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -87,8 +87,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Luciano programas\\PW\\APS_PW\\APS_PW\\Dominio.csproj": {
-                "projectPath": "C:\\Luciano programas\\PW\\APS_PW\\APS_PW\\Dominio.csproj"
+              "C:\\Luciano programas\\PW\\ConsultaEstoque\\APS_PW\\Dominio.csproj": {
+                "projectPath": "C:\\Luciano programas\\PW\\ConsultaEstoque\\APS_PW\\Dominio.csproj"
               }
             }
           }
