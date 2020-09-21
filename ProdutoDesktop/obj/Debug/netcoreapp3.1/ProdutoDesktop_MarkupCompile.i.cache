@@ -1,0 +1,20 @@
+﻿ProdutoDesktop
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Luciano programas\PW\APS_PW\ProdutoDesktop\obj\Debug\netcoreapp3.1\
+ProdutoDesktop
+none
+false
+TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
+C:\Luciano programas\PW\APS_PW\ProdutoDesktop\App.xaml
+3-1684487426
+
+1341089210
+193358420387
+MainWindow.xaml;Views\ProdutoListaView.xaml;Views\ProdutoView.xaml;
+
+False
+
