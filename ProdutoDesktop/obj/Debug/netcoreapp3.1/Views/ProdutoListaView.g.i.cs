@@ -53,7 +53,7 @@ namespace ProdutoDesktop.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/ProdutoDesktop;V1.0.0.0;component/views/produtolistaview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/ProdutoDesktop;component/views/produtolistaview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\ProdutoListaView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

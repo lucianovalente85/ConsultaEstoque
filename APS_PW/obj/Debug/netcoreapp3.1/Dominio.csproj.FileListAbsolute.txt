@@ -4,6 +4,15 @@ C:\Luciano programas\PW\APS_PW\APS_PW\bin\Debug\netcoreapp3.1\Dominio.pdb
 C:\Luciano programas\PW\APS_PW\APS_PW\obj\Debug\netcoreapp3.1\Dominio.csprojAssemblyReference.cache
 C:\Luciano programas\PW\APS_PW\APS_PW\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
 C:\Luciano programas\PW\APS_PW\APS_PW\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
-C:\Luciano programas\PW\APS_PW\APS_PW\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
 C:\Luciano programas\PW\APS_PW\APS_PW\obj\Debug\netcoreapp3.1\Dominio.dll
 C:\Luciano programas\PW\APS_PW\APS_PW\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Luciano programas\PW\APS_PW\APS_PW\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Luciano programas\PW\ConsultaEstoque\APS_PW\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Luciano programas\PW\ConsultaEstoque\APS_PW\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Luciano programas\PW\ConsultaEstoque\APS_PW\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Luciano programas\PW\ConsultaEstoque\APS_PW\obj\Debug\netcoreapp3.1\Dominio.csprojAssemblyReference.cache
+C:\Luciano programas\PW\ConsultaEstoque\APS_PW\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Luciano programas\PW\ConsultaEstoque\APS_PW\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Luciano programas\PW\ConsultaEstoque\APS_PW\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Luciano programas\PW\ConsultaEstoque\APS_PW\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Luciano programas\PW\ConsultaEstoque\APS_PW\obj\Debug\netcoreapp3.1\Dominio.pdb

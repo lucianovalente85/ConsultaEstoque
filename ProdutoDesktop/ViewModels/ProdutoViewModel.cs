@@ -18,6 +18,6 @@ namespace ProdutoDesktop.ViewModels
             return dao;
         }
 
-        private FakeDAO<Produto> dao = new FakeDAO<Produto>();
+        private ProdutoDAO dao = new ProdutoDAO();
     }
 }
